@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\bin\Debug\net8.0\project_learn.exe
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\bin\Debug\net8.0\project_learn.deps.json
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\bin\Debug\net8.0\project_learn.runtimeconfig.json
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\bin\Debug\net8.0\project_learn.dll
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\bin\Debug\net8.0\project_learn.pdb
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.AssemblyInfo.cs
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.sourcelink.json
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.dll
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\refint\project_learn.dll
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.pdb
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\project_learn.genruntimeconfig.cache
+C:\Users\Michael\source\repos\git_learning\project_learn\project_learn\obj\Debug\net8.0\ref\project_learn.dll
