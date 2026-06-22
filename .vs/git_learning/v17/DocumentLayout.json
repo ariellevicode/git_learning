@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Michael\\source\\repos\\git_learning\\",
+  "WorkspaceRootPath": "C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\source\\repos\\git_learning\\multithread_learning.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:multithread_learning.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\project_learn\\project_learn\\multithread_learning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project_learn\\project_learn\\multithread_learning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\project_learn\\project_learn\\git_file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project_learn\\project_learn\\git_file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "git_file1.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\project_learn\\project_learn\\git_file1.cs",
+              "RelativeDocumentMoniker": "project_learn\\project_learn\\git_file1.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\project_learn\\project_learn\\git_file1.cs",
+              "RelativeToolTip": "project_learn\\project_learn\\git_file1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:13:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "multithread_learning.cs",
-              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\git_learning\\multithread_learning.cs",
-              "RelativeDocumentMoniker": "multithread_learning.cs",
-              "ToolTip": "C:\\Users\\Michael\\source\\repos\\git_learning\\multithread_learning.cs",
-              "RelativeToolTip": "multithread_learning.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\project_learn\\project_learn\\multithread_learning.cs",
+              "RelativeDocumentMoniker": "project_learn\\project_learn\\multithread_learning.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\ariellevicode\\git_learning\\project_learn\\project_learn\\multithread_learning.cs",
+              "RelativeToolTip": "project_learn\\project_learn\\multithread_learning.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:55:09.073Z",
+              "WhenOpened": "2026-06-20T12:13:05.667Z",
               "EditorCaption": ""
             }
           ]

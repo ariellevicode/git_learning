@@ -7,4 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="code.cs" />
+    <Compile Remove="multithread_learning.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="code.cs" />
+    <None Include="multithread_learning.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO.Ports" Version="10.0.9" />
+  </ItemGroup>
+
 </Project>
